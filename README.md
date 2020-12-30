@@ -1,1 +1,1 @@
-This is first git project of TOP
+This is first git project of TOP.
